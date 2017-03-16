@@ -1,5 +1,5 @@
 # Minesweepers-Competition-2016
-Brief Description of the Ain Shams University Minesweepers Team Project
+Brief Description of the Ain Shams University-Minesweepers Team Project
 
 I worked as a leader for the software team with two other teams (Control & Mechanical) to create a minesweeper car.
 
